@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imran Khan as Pakistan PM: India need not take PTI chief's insincere 'peace overtures' seriously
+title: Imran Khan as Pakistan PM and his message for India
 ---
 Imran Khan's victory speech has been a cause for much debate, internal and external. The Pakistan Tehreek-e-Insaf (PTI) chief, who is poised to take over as Pakistan's 19th prime minister, outlined his vision for 'naya Pakistan' in a televised address on Thursday where he also offered a slice of his foreign policy roadmap. Among other nations, he also spent a few words on India. What should we make of Imran’s ‘vision’? Does he offer anything new? Can he bring about a thaw in frozen bilateral ties? How may the two countries get along under his tenure as the prime minister?
 
