@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mamata for PM? In Kolkata, Omar Abdullah Says Didi Will Move to Delhi, She Takes a Step Back 
+title: Maratha quota stir: Ignoring procedure to resign highlights political posturing; expect more leaders to follow
 ---
-Kolkata: West Bengal Chief Minister Mamata Banerjee met National Conference leader Omar Abdullah in Kolkata on Friday, setting in motion the formation of a grand alliance of opposition parties against the BJP for the next Lok Sabha election.
+When seven legislators from one State Legislative Assembly resign over a period of two days, it's big news, especially when it was done in support of the Maratha quota stir or the way the government handled it.
 
-The two leaders were all praise for each other as they addressed reporters after their meeting at Nabanna, the Bengal administration headquarters. Both said that like-minded parties should come together to defeat the BJP in 2019. 
+A significant aspect of their resignation is the fact that they do not belong to a single party. Of the seven legislators who resigned, two — Seema Hire and Rahul Ahir — are from the BJP, three — Dattatray Bharne, Ramesh Kadam, and Jaidev Chikatgaonkar — belong to the Nationalist Congress Party, one legislator Bharat Bhalke is from the Congress, and one legislator Harshvardhan Jadhav is from the Shiv Sena, which is part of the BJP-led ruling coalition at the State as well as the Centre.
