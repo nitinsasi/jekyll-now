@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Actress Priyanka Chopra engaged to American singer Nick Jonas: Report – Here’re the details
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+New York: Indian film superstar Priyanka Chopra is engaged to young American singer Nick Jonas after a whirlwind two months of dating, a report said Friday.
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+People magazine, citing unnamed sources close to the pair, said Jonas, 25, proposed to Chopra in London for her 36th birthday after shutting down a Tiffany store in New York to choose a ring.
+
+Representatives for the two stars did not respond to requests for comment.
