@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actress Priyanka Chopra engaged to American singer Nick Jonas: Report – Here’re the details
+title: Actress Priyanka Chopra engaged to American singer Nick Jonas 
 ---
 
 New York: Indian film superstar Priyanka Chopra is engaged to young American singer Nick Jonas after a whirlwind two months of dating, a report said Friday.
