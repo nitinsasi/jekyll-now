@@ -12,6 +12,5 @@ To discuss these questions, first let us recount Imran’s exact words (delivere
 
  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=
-" target="_blank"><img src="http://img.youtube.com/vi/iIhOokDVbnM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iIhOokDVbnM" target="_blank"><img src="http://img.youtube.com/vi/iIhOokDVbnM/0.jpg" 
 alt="Imran Khan" width="240" height="180" border="10" /></a>
