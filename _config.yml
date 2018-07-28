@@ -15,16 +15,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.indianewsdaily.in" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Bipin Sasi'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  Bipin Sasi is a seasoned journalist and a political observer from India.
+  He can be reached at bipin514@gmail.com for any comments and suggestions.
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: editor_iinews
+github_username:  nitin.sasi
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-59285359-8"
 
 # Build settings
 markdown: kramdown
