@@ -14,7 +14,7 @@ avatar: http://www.indianewsdaily.in/images/jekyll-logo.png
 #
 # Flags below are optional
 #
-
+paginate: 4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
