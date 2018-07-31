@@ -10,8 +10,7 @@ To discuss these questions, first let us recount Imran’s exact words (delivere
 
 "Unfortunately, the biggest core issue between us is Kashmir. The situation in Kashmir (is alarming) … And the people of Kashmir have suffered massive human rights violations. That (rights violations) is the inevitable outcome anywhere in the world when army goes to civilian areas. The Kashmiris have suffered a lot in the last 30 years."
 
- 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=
-" target="_blank"><img src="http://img.youtube.com/vi/iIhOokDVbnM/0.jpg" 
-alt="Imran Khan" width="240" height="180" border="10" /></a>
+ <amp-youtube
+    data-videoid="iIhOokDVbnM"
+    layout="responsive"
+    width="480" height="270"></amp-youtube>
