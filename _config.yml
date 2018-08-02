@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Indian News Daily
+title: Intelligent India
 email: editor@intelligentindia.in
 description: 
-  Job, Sarkari News, Sarkari Job, PSU Jobs.
+  Our focus is on analysis, reportage from the power corridors of India.
 logo: "images/jekyll-logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.indianewsdaily.in" # the base hostname & protocol for your site
+url: "https://www.intelligentindia.in" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Bipin Sasi'
