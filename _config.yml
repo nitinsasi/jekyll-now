@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Intelligent India
+title: India News Daily
 email: editor@intelligentindia.in
 description: 
-  Our focus is on analysis, reportage from the power corridors of India.
+  Sarkari Job,sarkari naukri,sarkari result,sarkari result 2018, sarkari exam,job alert,job, Railway, Bank, SSC, Army Jobs, All India Jobs, States Jobs, All Job At One Place
 logo: "images/jekyll-logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.indianewsdaily.in/" # the base hostname & protocol for your site
