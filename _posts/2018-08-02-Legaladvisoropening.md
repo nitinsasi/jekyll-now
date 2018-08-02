@@ -17,22 +17,20 @@ as Deputy Legal Advisor
 
 
 Nominations are invited for the Posts of Deputy Legal Advisor on deputation
-(ISTC)/absorption basis in NIA. Details of Posts and vacancies are as under :-
+(ISTC)/absorption basis in NIA. Details of Posts and vacancies are as under -
 
 No of Post 03
 
 
-Post with pay scale
+Post with pay scale 
 Deputy Legal Advisor 
-Pay Scale-Pay Matrix Level -12 
-(Rs. 78,800/- to 2,09,200/-)
-(PB-3 with GP 7600/- pre-revised)
+
+
+Pay Scale-
+Pay Matrix Level -12 (Rs. 78,800/- to 2,09,200/-) (PB-3 with GP 7600/- pre-revised)
 
  Proposed place of posting depending on vacancy
  Delhi, Guwahati, Kolkata & Mumbai.
  
  
- The eligibility criteria (educational qualification, experience, etc.) are furnished in
-the Annexure-I (available at NIA website www.nia.gov.in/recruitmentnotice.htm).
-The candidates who apply for the post will not be allowed to
-withdraw their candidature subsequently
+The eligibility criteria (educational qualification, experience, etc.) are furnished in the Annexure-I (available at NIA website www.nia.gov.in/recruitmentnotice.htm). The candidates who apply for the post will not be allowed to withdraw their candidature subsequently

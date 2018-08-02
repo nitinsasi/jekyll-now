@@ -4,7 +4,7 @@ title:  Central Council of Homoeopathy
 categories: jobs
 ---
 Applications are invited from eligible candidates for following posts within 20 days of
-issue of this notice:-
+issue of this notice-
 SI. Name of the Post No. of Consolidated Mode of
 No. Posts Pay Appointment
 1. Homoeopathic Doctor 03 50,000/- On contract basis
