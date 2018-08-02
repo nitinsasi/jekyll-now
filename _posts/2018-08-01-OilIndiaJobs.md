@@ -1,55 +1,17 @@
 ---
 layout: post
-title: डायरेनटर जनरल ऑि नसनवल एनवएिन ने नवनभ्न नवभागं मं कंसडटंट के नरनत कुल 08 पदं के नलए यो्य उ्मीदवारं के नलए नवञनतत जारी की हं।
-इन पदं पर आवेदन भेजने की ंनतम नतनथ 20 अगकत, 2018 ननधाषनरत की गई है... 
+title: Matua rail, rasta roko on Wednesday
 categories: jobs
 ---
+New Delhi: West Bengal CM Mamata Banerjee is apparently emerging as the face of the opposition front, as she takes charge in the slugfest against BJP government on the Assam NRC issue.
 
-शैितिक यो्यिाः इन पिं के उ्मीिवयरं की
-्यूनिम शैितणक यो्यिय के िहि उ्मीिवयरं
-को मय्यियिय्ि संपथयन से बैििर ऑफ
-इंजीतनयतरंग की तडरी अथवय तफतज्स और
-गतणि तवषयं के सयथ पनयिक तडरी कय होनय
-आव्यक है
-अनुभवः तवञयतपि पि के तिए उ्मीिवयर के पयस
-एटीसी मं 15 वषों कय कयययानुभव वयंछनीय हंै।
-आयु सीमाः तवञयतपि पिं पर आवेिन करने के
-तिए उ्मीिवयरं की अतधकिम आयु 63 वषा
-तनधयातरि की गई है।
-n आरतिि वगा के उ्मीिवयरं को सरकयर के
-तनयमयनुसयर अतधकिम आयु मं छूट िियन
-की जयएगी।
-वेिनमानः 70,000 ुपये ितिमयह िियन तकए
-जयएगं।
-अनसकटंट डायरेनटर ऑि ऑपरेिन (06)
-शैितिक यो्यिाः इन पिं के उ्मीिवयरं की
-्यूनिम शैितणक यो्यिय के िहि उ्मीिवयरं
-को मय्यियिय्ि संपथयन से बैििर ऑफ
-इंजीतनयतरंग की तडरी अथवय तफतज्स और
-गतणि तवषयं के सयथ पनयिक तडरी कय होनय
-अव्यक है
-अनुभवः तवञयतपि पि के तिए उ्मीिवयर के पयस
-एटीसी मं 10 वषों कय कयययानुभव वयंछनीय है।
-आयु सीमाः तवञयतपि पिं पर आवेिन करने के
-तिए उ्मीिवयरं की अतधकिम आयु 63 वषा
-तनधयातरि की गई है।
-n आरतिि वगा के उ्मीिवयरं को सरकयर के
-तनयमयनुसयर अतधकिम आयु मं छूट िियन की
-जयएगी।
-वेिनमानः 55,000 ुपये ितिमयह िियन तकए
-जयएगं।
-आवेदन रनिया
-तवञयतपि पिं पर आवेिन करने के तिए
-उ्मीिवयर संपथयन की आतधकयतरक वेबसयइट पर
-जयकर तनधयातरि आवेिन पि के ियूप को
-डयउनिोड कर भरं। पू्णाूप से भरे आवेिन पि
-को उ्मीिवयर समपि वयंतछि िपियवेजं के सयथ
-ंतिम तितथ से पहिे संपथयन के पियियर के पिे
-पर भेज िं।
-पराचार का पिाः तरिूटमंट से्शन, गवा्मंट
-ऑफ इंतडयय, डययरे्टर जनरि ऑफ तसतवि
-एतवऐशन, अपोतजट ऑफ सफिरजंग हयतपपटि
-एयरपोटड, नई ति्िी- 110003
+The TMC supremo will be meeting the leaders of top opposition parties over the issue. Also a delegation of six TMC MPs will be visiting Assam on Thursday and Friday.
+
+TMC MPs to visit Assam:
+
+In a statement, the Trinamool Congress said that on August 2 and August 3, a delegation comprising six MPs of the Trinamool Congress will be visiting Assam. The delegation will comprise of Sukhendu Shekhar Ray, Kakoli Ghosh Dastidar, Ratna De Nag, Nadimul Haque, Arpita Ghosh and Mamata Thakur.
+
+TMC leader Mamata Banerjee accused the BJP-led central government of resorting to "vote-bank politics" with regard to the NRC and said "Indian citizens have become refugees" in their own land
 
 
 - You can connect with me at [businesseditor@intelligentindia.in](mailto:businesseditor@intelligentindia.in)
