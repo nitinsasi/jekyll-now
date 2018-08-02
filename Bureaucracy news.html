@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /bureaucracy/
+title: bureaucracy
+---
+
+
+<main class="content" role="main">
+
+
+  <header class="blog-header">
+      <h1 class="blog-title">{{ site.title }}</h1>
+      <h2 class="blog-description">{{ site.description }}</h2>
+  </header>
+
+ <div id="archives">
+{% for post in site.categories.bureaucracy %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</div>
+
+</main>
+
+{% include footer.html %}
