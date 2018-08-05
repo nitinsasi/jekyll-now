@@ -1,0 +1,22 @@
+---
+layout: default
+permalink: /search/
+title: search
+---
+
+
+<input type="text" id="search-input" placeholder="Type to Search... " size=15>
+<ul id="results-container"></ul>
+ 
+ <script async src="{{ site.baseurl }}/assets/js/jekyll-search.js"   ></script>
+ <script async  >
+  SimpleJekyllSearch.init({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    dataSource: '{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}<\/a><\/li>',
+    noResultsText: 'No results found',
+    limit: 10,
+    fuzzy: true,
+  });
+</script>
