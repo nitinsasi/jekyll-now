@@ -10,7 +10,8 @@ layout: default
       <h2 class="blog-description">{{ site.description }}</h2>
   </header>
 
-
+<input type="text" id="search-input" placeholder="Type to Search... " size=15>
+<ul id="results-container"></ul>
   <div class="cf frame">
     {% for post in paginator.posts %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
