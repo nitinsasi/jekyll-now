@@ -1,0 +1,8 @@
+---
+layout: post
+title: Solar Eclipse 2018 Date and Time- All you need to know about August 11 Surya Grahan
+categories:  science 
+---
+Solar Eclipse 2018 Date and Time - Days after Indians witnessed the blood red moon after the complete lunar eclipse which took place on July 27, people in the country can witness another celestial activity on August 11 when the next solar eclipse will take place. It is going to be a partial solar eclipse or Surya Grahan which will be visible during the daytime. The forthcoming celestial event is going to be year’s third such activity when people will be able to witness Sun coming under the moon’s shadow. In the upcoming Solar eclipse which will take place in the wee hours of the day, the new moon will come cover almost 65% of the Sun’s surface, however, the percentage will vary in different parts of the world. Along with India, the partial solar eclipse will also be visible in other countries as well. It is not going to be as exciting and picturesque celestial activity like the one which took place on July 27-28 night when the world saw its natural satellite in red-blood colour.
+
+So for all those awaiting for the next celestial activity going to take place on August 11, the Surya Grahan or Solar Eclipse is expected to begin at around 1;32 pm and it will end around 5 pm in the evening. It’s going to be long solar eclipse. According to some reports, the eclipse will reach maximum eclipse by 9;46 am UTC (10;46 am BST) and conclud at around 11;30 am UTC (12;30 BST).

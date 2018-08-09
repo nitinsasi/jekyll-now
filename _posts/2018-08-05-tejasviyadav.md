@@ -4,7 +4,7 @@ title: Tejavi Yadav wiki, education , career
 categories:  profile
 ---
 
-He was the Deputy Chief Minister of Bihar, in Nitish Kumar government for twenty months.Yadav is the second eldest son of the former chief ministers of Bihar Lalu Prasad Yadav & Rabri Devi. The Jantar Mantar protest has given mileage to his political career.  12 parties hold hands at Jantar Mantar: ‘As you see, Opposition stands united’ . With the sexual abuse cases at a shelter home in Muzaffarpur, in NDA-governed Bihar, as the pivot, the event was organised by the Rashtriya Janata Dal (RJD) at Jantar Mantar, the ‘protest venue’ in the national capital. Rahul Gandhi and Kejriwal was also present at the event. 
+He was the Deputy Chief Minister of Bihar, in Nitish Kumar government for twenty months.Yadav is the second eldest son of the former chief ministers of Bihar Lalu Prasad Yadav & Rabri Devi. The Jantar Mantar protest has given mileage to his political career.  12 parties hold hands at Jantar Mantar; ‘As you see, Opposition stands united’ . With the sexual abuse cases at a shelter home in Muzaffarpur, in NDA-governed Bihar, as the pivot, the event was organised by the Rashtriya Janata Dal (RJD) at Jantar Mantar, the ‘protest venue’ in the national capital. Rahul Gandhi and Kejriwal was also present at the event. 
 Theoretically a united opposition can defeat the BJP in 2019 Lok Sabha elections. The combined vote share is higher than that of the BJP. Therefore Tejasvi is considered as a potential opponent for BJP in Bihar.
 
 
@@ -13,7 +13,7 @@ Age
 Born on 9 November 1989 (age 28 years), Patna
 
 Twitter Handle
-https://twitter.com/yadavtejashwi
+twitter.com/yadavtejashwi
 
 
 

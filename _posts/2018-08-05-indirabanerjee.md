@@ -8,7 +8,7 @@ The elevation of Uttarakhand Chief Justice KM Joseph as Supreme Court judge hit 
 
 Among the three, it is Justice Indira Banerjee who made a new record for India with her elevation. For the first time since it was established in 1950, the Supreme Court of India will have three women judges at the same time now.
 
-Here are a few things you must know about Justice Banerjee:
+Here are a few things you must know about Justice Banerjee-
 
 Born on September 24, 1957, Indira Banerjee did her schooling at the well-known Loreto House in Kolkata. From there, she went on pursue the Bachelor's degree at the Presidency College, and then to Calcutta University for further studies in law.
 She started practicing law as an advocate at Calcutta High in July
