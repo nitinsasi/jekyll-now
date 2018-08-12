@@ -1,0 +1,29 @@
+---
+layout: default
+permalink: /Directory/
+title: directory
+---
+
+
+
+<main class="content" role="main">
+
+ <header class="blog-header">
+      <h1 class="blog-title">{{ site.title }}</h1>
+  
+  </header>
+
+  
+  
+ 
+
+<div id="archives">
+{% for post in site.categories.yellowpage %}
+ <li> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</div>
+
+
+
+ </main>
+  
