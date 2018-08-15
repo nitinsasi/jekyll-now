@@ -5,10 +5,10 @@ categories:  profile
 ---
 
 
+
+Shubhrastha Shikha has emerged as a master election strategist along with Prashant Kishore and Rajat Sethi. She has worked with Prashant Kishore team before 2014 General Election, when PK was working with Narendra Modi. She was also among the core member of the team which worked for Nitish Kumar. However, she couldn't continue to work with PK for long because of his proximity with Congress leaders. She was asked by Rajat Sethi to join a small team led by Ram Madhav. The first success for this team was in Assam. Since then, this team has guided BJP to sweep almost entire North East. 
+
 <amp-img  src="{{ site.baseurl }}/images/shubh.jpg"   width="400"   height="400"  ></amp-img>
-
-
-  Shubhrastha Shikha has emerged as a master election strategist along with Prashant Kishore and Rajat Sethi. She has worked with Prashant Kishore team before 2014 General Election, when PK was working with Narendra Modi. She was also among the core member of the team which worked for Nitish Kumar. However, she couldn't continue to work with PK for long because of his proximity with Congress leaders. She was asked by Rajat Sethi to join a small team led by Ram Madhav. The first success for this team was in Assam. Since then, this team has guided BJP to sweep almost entire North East. 
 
 Profile of Shubhrastha Shikha
 Shubhrastha Shikha is a gifted young girl endowed with amazing capabilities. In such a tender age she has shown scintillating prowess. No doubt, she is widely known as a master election strategist, but it should be remembered that her is truly a versatile personality.
