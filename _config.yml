@@ -11,6 +11,7 @@ email: editor@intelligentindia.in
 description: 
   All Job At One Place ,Sarkari Jobs,sarkari naukri,sarkari result,sarkari result 2018, sarkari exam,job alert,job, Railway, Bank, SSC, Army Jobs, All India Jobs, States Jobs 
 logo: "images/jekyll-logo.jpg"
+menu: "assets/images/menu.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.indianewsdaily.in/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
