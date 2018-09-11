@@ -3,7 +3,9 @@ layout: post
 title: Chiranjeevi looks menacing in Sye Raa Narasimha Reddy teaser, fans excited
 categories:  entertainment
 ---
-New Delhi; Fans can't contain their excitement after megastar Chiranjeevi treated his fans with the teaser of his movie 'Sye Raa Narasimha Reddy' ahead of his birthday on Tuesday. The hashtag #SyeRaaNarasimhaReddyTeaser started trending on Twitter post release of the much-awaited teaser on Monday.
+ 
+ 
+ Fans can't contain their excitement after megastar Chiranjeevi treated his fans with the teaser of his movie 'Sye Raa Narasimha Reddy' ahead of his birthday on Tuesday. The hashtag #SyeRaaNarasimhaReddyTeaser started trending on Twitter post release of the much-awaited teaser on Monday.
 
 Fans of the actor are immensely praising the teaser on the micro-blogging website.
 
@@ -24,6 +26,7 @@ Chiranjeevi will be seen playing the titular role.
 With tilak on his forehad, long hair, beard, twirled moustache and heavy armour, Chiranjeevi looks convincing with his fierce expressions as he propels his army and takes on the Britishers on a horse with a sword.
 
 The film, which is directed by Surender Reddy, also stars Nayanthara and Amitabh Bachchan.
+
 
 
   <amp-img  src="{{ site.baseurl }}/images/SyeRaaNarasimhaReddy.jpg"  layout="responsive"  width="1000px"   height="500px"  ></amp-img>  

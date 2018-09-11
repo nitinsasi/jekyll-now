@@ -3,9 +3,7 @@ layout: post
 title: OFSS Bihar Intermediate Admission First Cut Off List Released @ Ofssbihar.in
 categories:  education
 ---
-New Delhi; 
-
-OFSS Bihar released the first cut off list for intermediate on August 20, 2018. This year the Bihar Government has made Intermediate and Degree admission centralized, that is from this year onward eligible students had to fill only one centralized application form. After the application process was over, merit lit was released and each applicant was allotted a school or intermediate college based on their marks in 10th and their preference filled in the application form. 
+New Delhi; OFSS Bihar released the first cut off list for intermediate on August 20, 2018. This year the Bihar Government has made Intermediate and Degree admission centralized, that is from this year onward eligible students had to fill only one centralized application form. After the application process was over, merit lit was released and each applicant was allotted a school or intermediate college based on their marks in 10th and their preference filled in the application form. 
 
 Students who have been allotted a seat in the first list can download their intimation letter form the official OFSS website. Students must not report without their intimation letters. 
 

@@ -7,7 +7,7 @@ ISLAMABAD- Pakistan Tehreek-e-Insaf (PTI) Chairman Imran Khan borrowed the waist
 
 Khan who is his party’s nominee for prime minister was sworn in along with other elected lawmakers during the inaugural session of the 15th National Assembly on Monday. The swearing-in marked the third consecutive democratic transfer of power.
 
- <amp-img  src="{{ site.baseurl }}/images/imrana.jpg"   width="555"   height="569"  ></amp-img>
+ <amp-img  src="{{ site.baseurl }}/images/imrana.jpg"   width="555"  layout="responsive"  height="569"  ></amp-img>
 
  > Here is the video 
  
